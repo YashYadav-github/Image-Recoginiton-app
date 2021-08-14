@@ -1,0 +1,17 @@
+body{
+    color: white;
+    background-color: palevioletred;
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+.name-of-objects, #result_object_name, #result_oject_accuracy{
+    color: yellow;
+    font-size: 20px;
+}
+#camera{
+    border: 4px dotted blueviolet;
+    width: 350px;
+    height: 300px;
+}
